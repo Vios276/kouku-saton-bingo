@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Vios276.github.io/kouku-saton-bingo/static/css/main.6beeafdd.chunk.css",
-    "main.js": "/Vios276.github.io/kouku-saton-bingo/static/js/main.6871248c.chunk.js",
-    "main.js.map": "/Vios276.github.io/kouku-saton-bingo/static/js/main.6871248c.chunk.js.map",
-    "runtime-main.js": "/Vios276.github.io/kouku-saton-bingo/static/js/runtime-main.d52ed63d.js",
-    "runtime-main.js.map": "/Vios276.github.io/kouku-saton-bingo/static/js/runtime-main.d52ed63d.js.map",
-    "static/js/2.8a80498b.chunk.js": "/Vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js",
-    "static/js/2.8a80498b.chunk.js.map": "/Vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js.map",
-    "static/js/3.07a0a5b2.chunk.js": "/Vios276.github.io/kouku-saton-bingo/static/js/3.07a0a5b2.chunk.js",
-    "static/js/3.07a0a5b2.chunk.js.map": "/Vios276.github.io/kouku-saton-bingo/static/js/3.07a0a5b2.chunk.js.map",
-    "index.html": "/Vios276.github.io/kouku-saton-bingo/index.html",
-    "static/css/main.6beeafdd.chunk.css.map": "/Vios276.github.io/kouku-saton-bingo/static/css/main.6beeafdd.chunk.css.map",
-    "static/js/2.8a80498b.chunk.js.LICENSE.txt": "/Vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js.LICENSE.txt"
+    "main.css": "/vios276.github.io/kouku-saton-bingo/static/css/main.6beeafdd.chunk.css",
+    "main.js": "/vios276.github.io/kouku-saton-bingo/static/js/main.6871248c.chunk.js",
+    "main.js.map": "/vios276.github.io/kouku-saton-bingo/static/js/main.6871248c.chunk.js.map",
+    "runtime-main.js": "/vios276.github.io/kouku-saton-bingo/static/js/runtime-main.050e2cc2.js",
+    "runtime-main.js.map": "/vios276.github.io/kouku-saton-bingo/static/js/runtime-main.050e2cc2.js.map",
+    "static/js/2.8a80498b.chunk.js": "/vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js",
+    "static/js/2.8a80498b.chunk.js.map": "/vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js.map",
+    "static/js/3.07a0a5b2.chunk.js": "/vios276.github.io/kouku-saton-bingo/static/js/3.07a0a5b2.chunk.js",
+    "static/js/3.07a0a5b2.chunk.js.map": "/vios276.github.io/kouku-saton-bingo/static/js/3.07a0a5b2.chunk.js.map",
+    "index.html": "/vios276.github.io/kouku-saton-bingo/index.html",
+    "static/css/main.6beeafdd.chunk.css.map": "/vios276.github.io/kouku-saton-bingo/static/css/main.6beeafdd.chunk.css.map",
+    "static/js/2.8a80498b.chunk.js.LICENSE.txt": "/vios276.github.io/kouku-saton-bingo/static/js/2.8a80498b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d52ed63d.js",
+    "static/js/runtime-main.050e2cc2.js",
     "static/js/2.8a80498b.chunk.js",
     "static/css/main.6beeafdd.chunk.css",
     "static/js/main.6871248c.chunk.js"
